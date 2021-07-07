@@ -1,13 +1,13 @@
 [
  {
-	 "ProductName" : "TV", 
-	 GraphicName : "77 LG OLED TV C9 ThinQ AI",
-	 CostPrice : 1430.70,
-	MSRP : 1900.99,
-	QtyOnHand : 2000,
-	 QtyOnBackOrder : 8,
-	 Description : "Perfect Black, α9 Gen 2 Intelligent Processor, AI Smart, webOS® 4.5 and Magic Remote, Dolby Vision and Dolby Atmos, and Premium Design",
-   BRAND : "LG"
+	 "ProductName": "TV", 
+	 "GraphicName" : "77 LG OLED TV C9 ThinQ AI",
+	 "CostPrice" : 1430.70,
+	"MSRP" : 1900.99,
+	"QtyOnHand" : 2000,
+	 "QtyOnBackOrder" : 8,
+	 "Description" : "Perfect Black, α9 Gen 2 Intelligent Processor, AI Smart, webOS® 4.5 and Magic Remote, Dolby Vision and Dolby Atmos, and Premium Design",
+   "BRAND" : "LG"
   },
   
     {
