@@ -1,6 +1,6 @@
 [
  {
-	 ProductName : "TV" , 
+	 ProductName : "TV", 
 	 GraphicName : "77 LG OLED TV C9 ThinQ AI",
 	 CostPrice : 1430.70,
 	MSRP : 1900.99,
@@ -11,7 +11,7 @@
   },
   
     {
-	  ProductName : "Front Load Washer" , 
+	  ProductName : "Front Load Washer", 
 	 GraphicName : "Single Unit Front Load LG WashTower™ with Centre Control™ 5.2 cu. ft. Washer and 7.4 cu. ft. Electric Dryer" , 
 	 CostPrice : 2800.99,
 	 	MSRP : 3199.99,
@@ -21,7 +21,7 @@
    BRAND : "LG"
     },
     {
-	 ProductName : "Air Conditioner" , 
+	 ProductName : "Air Conditioner", 
 	 GraphicName :"DUALCOOL PRESTIGE 12,000 BTU, ThinQ, -30 Hyper Heating operation" , 
 	 CostPrice :700.70,
 	 MSRP : 1200.40,
@@ -32,7 +32,7 @@
    },
 
 	{
-	 ProductName : "Refrigerator" , 
+	 ProductName : "Refrigerator", 
 	 GraphicName : "28 cu.ft. Smart wi-fi Enabled French Door Refrigerator",
 	 CostPrice :  2899.90,
 	  MSRP : 3599.00,
@@ -43,7 +43,7 @@
 	},
 
 	{
-   ProductName : "Vacuum" , 
+   ProductName : "Vacuum", 
 	 GraphicName : "LG CordZero™ A9 Charge Plus Cordless Stick Vacuum",
 	 CostPrice :  2899.90,
 	  MSRP : 3599.00,
@@ -54,7 +54,7 @@
 	},
 	
   {
-  ProductName : "Apple Watch" , 
+  ProductName : "Apple Watch", 
 	 GraphicName : "Apple Watch SE",
 	 CostPrice :  200.70,
 	  MSRP : 369.99,
@@ -65,7 +65,7 @@
   
   },
 	{
-  ProductName : "Apple AirPods Pro" , 
+  ProductName : "Apple AirPods Pro", 
 	 GraphicName : "Apple AirPods Pro",
 	 CostPrice :  200.70,
 	  MSRP :  279.99,
@@ -76,7 +76,7 @@
    },
    
 	{
-  ProductName : "iPad Pro" , 
+  ProductName : "iPad Pro", 
 	 GraphicName : "iPad Pro The ultimate iPad experience",
 	 CostPrice :  801,
 	  MSRP :  999,
@@ -89,7 +89,7 @@
   
   },
 	 {
-   ProductName : "HomePod mini" , 
+   ProductName : "HomePod mini", 
 	 GraphicName : "HomePod mini",
 	 CostPrice : 98.70,
 	  MSRP :  129.99,
@@ -100,7 +100,7 @@
    },
    
 	 {
-   ProductName : "Apple Pencil 2nd generation" , 
+   ProductName : "Apple Pencil 2nd generation", 
 	 GraphicName : "Apple Pencil 2nd generation",
 	 CostPrice :  150,
 	  MSRP :  169,
@@ -111,7 +111,7 @@
    
    },
    {
-   ProductName : "Nike Sportswear" , 
+   ProductName : "Nike Sportswear", 
 	 GraphicName : "Nike Sportswear",
 	 CostPrice :  25,
 	  MSRP : 48,
@@ -123,7 +123,7 @@
    },
    
    {
-   ProductName : "Women shoes" , 
+   ProductName : "Women shoes", 
 	 GraphicName : "Nike Air Max Plus",
 	 CostPrice :  150,
 	  MSRP :210,
@@ -134,7 +134,7 @@
    },
    
  {
-   ProductName : "Women Golf Hat" , 
+   ProductName : "Women Golf Hat", 
 	 GraphicName : "Nike AeroBill Heritage86",
 	 CostPrice :  11,
 	  MSRP :30,
@@ -145,7 +145,7 @@
  
  },
 	{
-  ProductName : "Nike socks" , 
+  ProductName : "Nike socks", 
 	 GraphicName : "Nike Everyday Plus Lightweight",
 	 CostPrice :  5,
 	  MSRP :20,
@@ -156,7 +156,7 @@
  
   },
 	 {
-   ProductName : "Men''s Football Jacket" , 
+   ProductName : "Men''s Football Jacket", 
 	 GraphicName : "Atlético Madrid Repel Academy AWF",
 	 CostPrice : 50.80,
 	  MSRP :95,
