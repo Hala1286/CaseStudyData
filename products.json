@@ -1,5 +1,6 @@
 [
  {
+     "Id" : "LG3245",
 	 "ProductName": "TV", 
 	 "GraphicName" : "77 LG OLED TV C9 ThinQ AI",
 	 "CostPrice" : 1430.70,
@@ -11,6 +12,7 @@
   },
   
     {
+         "Id" : "LG3246",
 	  "ProductName" : "Front Load Washer", 
 	 "GraphicName" : "Single Unit Front Load LG WashTower™ with Centre Control™ 5.2 cu. ft. Washer and 7.4 cu. ft. Electric Dryer" , 
 	 "CostPrice" : 2800.99,
@@ -21,6 +23,7 @@
    "BRAND" : "LG"
     },
     {
+     "Id" : "LG3247",
 	 "ProductName" : "Air Conditioner", 
 	 "GraphicName" :"DUALCOOL PRESTIGE 12,000 BTU, ThinQ, -30 Hyper Heating operation" , 
 	 "CostPrice":700.70,
@@ -32,6 +35,7 @@
    },
 
 	{
+        "Id" : "LG3248",
 	 "ProductName" : "Refrigerator", 
 	 "GraphicName" : "28 cu.ft. Smart wi-fi Enabled French Door Refrigerator",
 	 "CostPrice" :  2899.90,
@@ -43,6 +47,7 @@
 	},
 
 	{
+        "Id" : "LG3249",
    "ProductName" : "Vacuum", 
 	 "GraphicName" : "LG CordZero™ A9 Charge Plus Cordless Stick Vacuum",
 	 "CostPrice" :  2899.90,
@@ -54,6 +59,7 @@
 	},
 	
   {
+      "Id" : "AppW4245",
   "ProductName" : "Apple Watch", 
 	 "GraphicName" : "Apple Watch SE",
 	 "CostPrice" :  200.70,
@@ -65,6 +71,7 @@
   
   },
 	{
+         "Id" : "AppArp4246",
   "ProductName" : "Apple AirPods Pro", 
 	 "GraphicName" : "Apple AirPods Pro",
 	 "CostPrice" :  200.70,
@@ -76,6 +83,7 @@
    },
    
 	{
+         "Id" : "AppIpa4247",
      "ProductName" : "iPad Pro", 
 	 "GraphicName" : "iPad Pro The ultimate iPad experience",
 	 "CostPrice" :  801,
@@ -89,6 +97,7 @@
   
   },
 	 {
+          "Id" : "AppHM4248",
    "ProductName" : "HomePod mini", 
 	 "GraphicName" : "HomePod mini",
 	 "CostPrice" : 98.70,
@@ -100,6 +109,7 @@
    },
    
 	 {
+          "Id" : "AppPen4249",
    "ProductName" : "Apple Pencil 2nd generation", 
 	 "GraphicName" : "Apple Pencil 2nd generation",
 	 "CostPrice" :  150,
@@ -111,6 +121,7 @@
    
    },
    {
+        "Id" : "NIKW4245",
    "ProductName" : "Nike Sportswear", 
 	 "GraphicName" : "Nike Sportswear",
 	 "CostPrice" :  25,
@@ -123,6 +134,7 @@
    },
    
    {
+    "Id" : "NIKSH4246",
    "ProductName" : "Women shoes", 
 	 "GraphicName" : "Nike Air Max Plus",
 	 "CostPrice" :  150,
@@ -134,6 +146,7 @@
    },
    
  {
+     "Id" : "NIKGH4247",
    "ProductName" : "Women Golf Hat", 
 	"GraphicName" : "Nike AeroBill Heritage86",
 	 "CostPrice" :  11,
@@ -145,6 +158,7 @@
  
  },
 	{
+        "Id" : "NIKS4248",
   "ProductName" : "Nike socks", 
    "GraphicName" : "Nike Everyday Plus Lightweight",
 	 "CostPrice" :  5,
@@ -156,6 +170,7 @@
  
   },
 	 {
+         "Id" : "NIKJ4249",
    "ProductName" : "Men''s Football Jacket", 
 	 "GraphicName" : "Atlético Madrid Repel Academy AWF",
 	 "CostPrice" : 50.80,
