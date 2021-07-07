@@ -46,7 +46,18 @@
 	 "BRAND" : "LG"
 	},
 
-	
+	{
+        "Id" : "LGV3249",
+        "ProductName" : "Vacuum", 
+	    "GraphicName" : "LG CordZero A9 Charge Plus Cordless Stick Vacuum",
+	    "CostPrice" :  2899.90,
+	    "MSRP" : 3599.00,
+	    "QtyOnHand" : 1000,
+	    "QtyOnBackOrder" :88,
+	    "Description" : "urn the vacuum on and off easily, or select different power levels, including Turbo mode, with the touch of a thumb. That means less strain on your hand and a more comfortable clean",
+	    "BRAND" : "LG"
+	},
+    
   {
       "Id" : "AppW4245",
   "ProductName" : "Apple Watch", 
