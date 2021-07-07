@@ -89,14 +89,14 @@
   
   },
 	 {
-   ProductName : "HomePod mini", 
-	 GraphicName : "HomePod mini",
-	 CostPrice : 98.70,
-	  MSRP :  129.99,
-	  QtyOnHand :700,
-	  QtyOnBackOrder : 7,
-	 Description :"Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multi-room audio1 and features like Intercom",
-   BRAND : "Apple"
+   "ProductName" : "HomePod mini", 
+	 "GraphicName" : "HomePod mini",
+	 "CostPrice" : 98.70,
+	  "MSRP" :  129.99,
+	  "QtyOnHand" :700,
+	  "QtyOnBackOrder" : 7,
+	 "Description" :"Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multi-room audio1 and features like Intercom",
+   "BRAND" : "Apple"
    },
    
 	 {
